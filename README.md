@@ -5,4 +5,4 @@ This is my first github repository
 I creat this for my pthon study.
 
 ## I like coding
-## python make life intereting
+## python make life much more easy
